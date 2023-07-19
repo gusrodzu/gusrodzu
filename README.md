@@ -1,6 +1,6 @@
 # Bienvenidos a mi GitHub
 
-Soy Gus Rodríguez, un apasionado Full-Stack Designer con más de una década de experiencia en el mundo digital. Con más de 5 años especializado en el Desarrollo Web y más de 10 años inmerso en el apasionante universo del Marketing Digital y el Diseño Web
+Soy Gus Rodríguez, un apasionado Full-Stack Designer con más de una década de experiencia en el mundo digital. Con más de 5 años especializado en el Desarrollo Web y más de 10 años inmerso en el apasionante universo del Marketing Digital y el Diseño.
 
 
 ## Tecnologías utilizadas
