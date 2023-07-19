@@ -2,7 +2,6 @@
 
 Soy Gus Rodríguez, un apasionado Full-Stack Designer con más de una década de experiencia en el mundo digital. Con más de 5 años especializado en el Desarrollo Web y más de 10 años inmerso en el apasionante universo del Marketing Digital y el Diseño Web
 
-Combinando ambos mundos, aquí te presento una selección de mis proyectos más recientes y emocionantes..
 
 ## Tecnologías utilizadas
 
