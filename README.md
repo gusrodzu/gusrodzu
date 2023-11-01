@@ -1,4 +1,4 @@
-![image](https://github.com/gusrodzu/gusrodzu/assets/43864523/661ffee6-59a2-4b64-b2f7-ba8adbf07012)
+
 
 
 
