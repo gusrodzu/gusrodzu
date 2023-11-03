@@ -1,6 +1,7 @@
 
 
-![image](https://github.com/gusrodzu/gusrodzu/assets/43864523/307e0347-a791-4b13-b75c-a80cf65aa2f5)
+![image](https://github.com/gusrodzu/gusrodzu/assets/43864523/01276fac-38bc-4783-9b87-369d67763e56)
+
 
 
 
