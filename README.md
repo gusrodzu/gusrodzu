@@ -1,6 +1,7 @@
 
 
-![image](https://github.com/gusrodzu/gusrodzu/assets/43864523/01276fac-38bc-4783-9b87-369d67763e56)
+
+![Uploading Diseño sin título.jpg…]()
 
 
 
