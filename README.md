@@ -1,6 +1,7 @@
 
 
-![image](https://github.com/gusrodzu/gusrodzu/assets/43864523/c2582373-d0c6-46c0-97f2-dca7b89e32dd)
+![image](https://github.com/gusrodzu/gusrodzu/assets/43864523/307e0347-a791-4b13-b75c-a80cf65aa2f5)
+
 
 
 # Bienvenidos a mi GitHub
