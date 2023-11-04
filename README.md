@@ -1,10 +1,5 @@
 
-
-
-![Diseño sin título](https://github.com/gusrodzu/gusrodzu/assets/43864523/c796cf6b-5eee-431f-b213-cb11c734137d)
-
-
-
+![Uploading Diseño sin título.png…]()
 
 
 # Bienvenidos a mi GitHub
