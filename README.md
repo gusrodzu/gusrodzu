@@ -1,4 +1,6 @@
-![Diseño sin título](https://github.com/gusrodzu/gusrodzu/assets/43864523/c291352a-5116-436f-93e3-d2c197d1a7d4)
+
+![1700756799807](https://github.com/gusrodzu/gusrodzu/assets/43864523/23bcd5a2-4e22-43fe-95ce-c2898d3f1cbe)
+
 
 # Bienvenidos a mi GitHub
 
